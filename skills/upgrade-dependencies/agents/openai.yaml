@@ -1,0 +1,4 @@
+interface:
+  display_name: "依赖升级"
+  short_description: "支持多生态项目，检查过时依赖并分批升级、验证、提交"
+  default_prompt: "使用 $upgrade-dependencies 检查当前项目依赖的过时情况，按风险分批升级、验证，并在每批通过后提交。"
